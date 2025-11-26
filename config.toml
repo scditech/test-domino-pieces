@@ -1,0 +1,5 @@
+[repository]
+REGISTRY_NAME = "scditech"
+REPOSITORY_NAME = "test-domino-pieces"
+REPOSITORY_LABEL = "Test Domino Pieces in organization repository"
+VERSION = "0.1.0"
